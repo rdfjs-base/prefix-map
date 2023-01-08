@@ -1,5 +1,8 @@
 # @rdfjs/prefix-map
 
+[![build status](https://img.shields.io/github/actions/workflow/status/rdfjs-base/prefix-map/test.yaml?branch=master)](https://github.com/rdfjs-base/prefix-map/actions/workflows/test.yaml)
+[![npm version](https://img.shields.io/npm/v/@rdfjs/prefix-map.svg)](https://www.npmjs.com/package/@rdfjs/prefix-map)
+
 A Map for RDF/JS prefixes.
 
 This package implements the JavaScript Map interface for RDF prefixes.
