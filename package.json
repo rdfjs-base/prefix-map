@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@rdfjs/data-model": "^2.0.1",
-    "@rdfjs/environment": "^0.1.1",
+    "@rdfjs/environment": "^1.0.0",
     "c8": "^9.1.0",
     "mocha": "^10.2.0",
     "stricter-standard": "^0.3.1"
