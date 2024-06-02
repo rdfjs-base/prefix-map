@@ -1,5 +1,5 @@
 import { notStrictEqual, strictEqual } from 'assert'
-import DataFactory from '@rdfjs/environment/DataFactory.js'
+import DataFactory from '@rdfjs/data-model/Factory.js'
 import Environment from '@rdfjs/environment/Environment.js'
 import { describe, it } from 'mocha'
 import PrefixMapFactory from '../Factory.js'
